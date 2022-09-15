@@ -1,4 +1,5 @@
 Devon Sandel
-Steven Herrera
+Steven Herrera: Sociology and Degree Ph.D. Program (Interests: Immigrant Integration, Racial Stratification, 
+Quantitative Methods)
 Xueqin Lin
 Tyrone Sgambati

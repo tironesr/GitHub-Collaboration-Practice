@@ -1,0 +1,10 @@
+git clone https://github.com/tironesr/GitHub-Collaboration-Practice.git
+cd GitHub-Collaboration-Practice 
+git branch
+git checkout -b steven_branch
+nano names.md
+touch new_text_file_with_data
+nano new_text_file_with_data
+git add *
+git commit -m “created branch and edited the names.md file to add more info about myself, Steven”
+git push -u origin steven_branch
