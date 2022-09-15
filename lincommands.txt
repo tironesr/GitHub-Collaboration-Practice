@@ -1,0 +1,10 @@
+cd Desktop/Computational\ Science/projects/Computational-Social-Science-Projects/GitHub-Collaboration-Practice/
+nano names.md
+Git add *
+git commit -m "add info"
+git switch -c xl_branch
+touch lincommands.txt
+nano lincommands.txt
+git add * 
+git commit -m "create a file"
+git push -u origin xl_branch 
